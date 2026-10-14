@@ -1,0 +1,11 @@
+{
+  "sourceCommit": "1cf3393e7dbf08e492023108ac2dc49fd61b23b3",
+  "chainId": 11155111,
+  "configured": false,
+  "tabs": [
+    "Profile",
+    "Wallet",
+    "Announcements"
+  ],
+  "baseUrl": "/new-tibet-app-testnet-pages"
+}
