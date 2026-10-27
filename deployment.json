@@ -1,7 +1,7 @@
 {
-  "sourceCommit": "1cf3393e7dbf08e492023108ac2dc49fd61b23b3",
+  "sourceCommit": "24c7e7a5987455509a908a76ba2d5324625d453a",
   "chainId": 11155111,
-  "configured": false,
+  "configured": true,
   "tabs": [
     "Profile",
     "Wallet",
